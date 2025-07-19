@@ -150,6 +150,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 Distributed under the MIT License. See LICENSE for more information.
 📞 Contact
 
-Your Name/Team Name - your.email@example.com
+Your Name/Team Name - faizanakhan2003@gmail.com
 
-Project Link: https://github.com/your-username/codecoll
+Project Link: https://github.com/jellyfishing2346/CodeCollab
